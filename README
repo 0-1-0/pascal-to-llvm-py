@@ -1,1 +1,1 @@
-Python-based compiler of the Pascal language dialect to llvm binary.
+Python-based parser/compiler of the Pascal language dialect to llvm binary.
